@@ -1,3 +1,3 @@
-from django.db import models
+venv\Scripts\activatefrom django.db import models
 
 # Create your models here.
